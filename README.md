@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi everyone, I'm Khang
 
-<!--
-**Dikhang1112/Dikhang1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a **third-year Computer Science student** at **Ho Chi Minh City Open University**.  
+💻 I'm passionate about **web development** and fascinated by **Artificial Intelligence** and **Deep Learning**.  
+📚 Always learning, always building.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- ReactJS ⚛️
+- HTML / CSS / JavaScript
+
+### 🧠 Backend
+- Java + Spring Boot ☕
+- Python + Flask 🐍
+
+### 🗃️ Database
+- MySQL 🐬
+
+### 🧰 Tools
+- Git 🔧
+- Postman 📬
+
+---
+
+## 🚀 Some Projects
+
+### 🔗 [StudentManagement](https://github.com/thien0709/StudentManagement.git)
+> A student management system built by a team of 3.  
+> Includes CRUD operations, student-class assignment, statistics, and a responsive UI.
+
+### 🔗 [MyMedViT-Improvement](https://github.com/LeQKhai/MyMedViT-Improvement.git)
+> An AI-powered project to classify medical images using Deep Learning.  
+> Currently under research and development by a team of 2.  
+> Combines CNN and Transformer architectures for enhanced performance.
+
+---
+
+## 📈 GitHub Stats
+
+![Khang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duykhang123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duykhang123&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+- Email: **duykhang123@gmail.com**
+- Phone: **0707352905** (Zalo)
+_Thanks for visiting my profile! ⭐ Feel free to connect or explore my projects._
+
