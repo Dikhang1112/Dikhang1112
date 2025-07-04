@@ -1,7 +1,7 @@
 # 👋 Hi everyone, I'm Khang
 
 🎓 I'm currently a **third-year Computer Science student** at **Ho Chi Minh City Open University**.  
-💻 I'm passionate about **web development** and fascinated by **Artificial Intelligence** and **Deep Learning**.  
+💻 I'm like about **web development** and fascinated by **Artificial Intelligence** and **Deep Learning**.  
 📚 Always learning, always building.
 
 ---
@@ -35,13 +35,6 @@
 > An AI-powered project to classify medical images using Deep Learning.  
 > Currently under research and development by a team of 2.  
 > Combines CNN and Transformer architectures for enhanced performance.
-
----
-
-## 📈 GitHub Stats
-
-![Khang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duykhang123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duykhang123&layout=compact&theme=radical)
 
 ---
 
