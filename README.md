@@ -39,8 +39,9 @@
 ---
 
 ## 📫 Contact Me
-- Email: **duykhanggt5@gmail.com**
+- Personal Email: **duykhanggt5@gmail.com**
 - Student Email: **2251012075khang@ou.edu.vn**
 - Phone: **0707352905** (Zalo)
-_Thanks for visiting my profile! ⭐ Feel free to connect or explore my projects._
+
+**Thanks for visiting my profile! ⭐ Feel free to connect or explore my projects.**
 
