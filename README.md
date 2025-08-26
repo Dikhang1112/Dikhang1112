@@ -31,12 +31,10 @@
 > A student management system built by a team of 3.  
 > Includes CRUD operations, student-class assignment, statistics, and a responsive UI.
 
-### 🔗 [MyMedViT-Improvement](https://github.com/LeQKhai/MyMedViT-Improvement.git)
-> An AI-powered project to classify medical images using Deep Learning.  
-> Currently under research and development by a team of 2.  
-> Combines CNN and Transformer architectures for enhanced performance.
-
----
+### 🔗 [SystemStudySmart](https://github.com/Dikhang1112/SystemStudySmart.git)
+> An AI-integrated smart learning management system for students and teachers.  
+> Currently under active development by me.  
+> Combines Spring MVC, React.js, and AI technologies to personalize education and streamline teaching workflows.
 
 ## 📫 Contact Me
 - Personal Email: **duykhanggt5@gmail.com**
