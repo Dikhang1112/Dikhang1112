@@ -13,7 +13,7 @@
 - HTML / CSS / JavaScript
 
 ### 🧠 Backend
-- Java + Spring Boot ☕
+- Java + Spring Mvc ☕
 - Python + Flask 🐍
 
 ### 🗃️ Database
@@ -28,8 +28,10 @@
 ## 🚀 Some Projects
 
 ### 🔗 [StudentManagement](https://github.com/thien0709/StudentManagement.git)
+> Using python and flask technology for developing product.
 > A student management system built by a team of 3.  
 > Includes CRUD operations, student-class assignment, statistics, and a responsive UI.
+
 
 ### 🔗 [SystemStudySmart](https://github.com/Dikhang1112/SystemStudySmart.git)
 > An AI-integrated smart learning management system for students and teachers.  
