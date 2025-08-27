@@ -27,13 +27,13 @@
 
 ## 🚀 Some Projects
 
-### 🔗 [StudentManagement](https://github.com/thien0709/StudentManagement.git)
+### 🔗 [Student Management](https://github.com/thien0709/StudentManagement.git)
 > Using python and flask technology for developing product.
 > A student management system built by a team of 3.  
 > Includes CRUD operations, student-class assignment, statistics, and a responsive UI.
 
 
-### 🔗 [SystemStudySmart](https://github.com/Dikhang1112/SystemStudySmart.git)
+### 🔗 [Smart Learning System](https://github.com/Dikhang1112/SmartLearning-System.git)
 > An AI-integrated smart learning management system for students and teachers.  
 > Currently under active development by me.  
 > Combines Spring MVC, React.js, and AI technologies to personalize education and streamline teaching workflows.
