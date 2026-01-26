@@ -1,6 +1,6 @@
 # 👋 Hi everyone, I'm Khang
 
-🎓 I'm currently a **third-year Computer Science student** at **Ho Chi Minh City Open University**.  
+🎓 I'm currently a **four-year Computer Science student** at **Ho Chi Minh City Open University**.  
 💻 I'm like about **web development** and fascinated by **Artificial Intelligence** and **Deep Learning**.  
 📚 Always learning, always building.
 
@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- ReactJS ⚛️
+- ReactJS, React Native ⚛️
 - HTML / CSS / JavaScript
 
 ### 🧠 Backend
@@ -18,25 +18,11 @@
 
 ### 🗃️ Database
 - MySQL 🐬
-
+- Mongo DB
 ### 🧰 Tools
 - Git 🔧
 - Postman 📬
-
----
-
-## 🚀 Some Projects
-
-### 🔗 [Student Management](https://github.com/thien0709/StudentManagement.git)
-> Using python and flask technology for developing product.
-> A student management system built by a team of 3.  
-> Includes CRUD operations, student-class assignment, statistics, and a responsive UI.
-
-
-### 🔗 [Smart Learning System](https://github.com/Dikhang1112/SmartLearning-System.git)
-> An AI-integrated smart learning management system for students and teachers.  
-> Currently under active development by me.  
-> Combines Spring MVC, React.js, and AI technologies to personalize education and streamline teaching workflows.
+- Docker
 
 ## 📫 Contact Me
 - Personal Email: **duykhanggt5@gmail.com**
